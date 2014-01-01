@@ -4,6 +4,7 @@
 			</div>
 			<div class="large-6 columns">
 				<?php dynamic_sidebar('footer02'); ?>
+			</div>
 		</div>
 		<div class="row">
 			<div class="large-12 columns text-center">
